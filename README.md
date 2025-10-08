@@ -1,4 +1,4 @@
-# Pertemuan 6: Layout dan Navigasi
+# Pertemuan 7: Manajemen Plugin
 
 **NIM**: 2341720116
 **Nama**: Hanif Faishal Hilmi
